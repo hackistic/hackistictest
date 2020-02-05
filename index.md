@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Hackistic
 
 ---
+I tell 
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+stories through programming.  Making the code speak for me.
